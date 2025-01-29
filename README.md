@@ -3,7 +3,7 @@ CẤU HÌNH
 - RAM: 4Gb
 - SSD 100Gb
 - OS: Ubuntu 22.04
-- Sever: Contabo
+- Sever: VPN or Virtual
   
 ### Thông tin
 - Faucet Arbitrum ETH Sepolia
