@@ -1,9 +1,10 @@
 CẤU HÌNH
-- CPU: 6 core
-- RAM: 4Gb
-- SSD 100Gb
-- OS: Ubuntu 22.04
-- Sever: VPN or Virtual
+- Component	Requirement
+- Operating System (OS)	Ubuntu (Recommended)
+- CPU Architecture	amd64 (x86 architecture)
+- Storage	100GB available storage
+- Memory (RAM)	4GB RAM
+- Processor	6 cores
   
 ### Thông tin
 - Faucet Arbitrum ETH Sepolia
