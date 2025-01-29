@@ -1,5 +1,5 @@
 # Privasea
-CẤU HÌNH
+# CẤU HÌNH
 
     CPU: 6 core
     RAM: 4Gb
@@ -12,12 +12,9 @@ Thông tin
     Faucet Arbitrum ETH Sepolia https://faucet.quicknode.com/arbitrum/sepolia
 
     Faucet Privasea DeepSea Beta tokens https://deepsea-beta.privasea.ai/deepSeaFaucet
-
-    Update
-
-sudo apt-get update && sudo apt-get upgrade -y
-
-sudo apt -qy install curl git jq lz4 build-essential
+Update
+        sudo apt-get update && sudo apt-get upgrade -y
+        sudo apt -qy install curl git jq lz4 build-essential
 
     Cài Docker
 
